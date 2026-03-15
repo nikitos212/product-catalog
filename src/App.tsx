@@ -32,7 +32,6 @@ export default function App() {
       <main className={styles.container}>
         <header className={styles.hero}>
           <div>
-            <p className={styles.eyebrow}>Project</p>
             <h1 className={styles.title}>Каталог товаров</h1>
             <p className={styles.subtitle}>
               Загрузка товаров, фильтрация по названию
