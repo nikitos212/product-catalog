@@ -1,0 +1,35 @@
+.grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.emptyState {
+  padding: 48px 24px;
+  border: 1px dashed var(--color-border);
+  border-radius: 24px;
+  text-align: center;
+  background: var(--color-surface);
+}
+
+.emptyTitle {
+  margin: 0 0 8px;
+  font-size: 24px;
+}
+
+.emptyDescription {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Смарт-часы X100",
+    "price": 7490,
+    "category": "Гаджеты",
+    "image": "https://placehold.co/800x600?text=Smart+Watch+X100",
+    "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор, мониторинг сна и пульса."
+  },
+  {
+    "id": 2,
+    "title": "Беспроводные наушники AirBeat",
+    "price": 4990,
+    "category": "Аудио",
+    "image": "https://placehold.co/800x600?text=AirBeat",
+    "description": "Активное шумоподавление, до 24 часов работы с кейсом, Bluetooth 5.3."
+  },
+  {
+    "id": 3,
+    "title": "Портативная колонка Boom Mini",
+    "price": 3290,
+    "category": "Аудио",
+    "image": "https://placehold.co/800x600?text=Boom+Mini",
+    "description": "Компактная Bluetooth-колонка с защитой IPX6 и насыщенным басом."
+  },
+  {
+    "id": 4,
+    "title": "Фитнес-браслет MoveFit 4",
+    "price": 2590,
+    "category": "Гаджеты",
+    "image": "https://placehold.co/800x600?text=MoveFit+4",
+    "description": "Шагомер, уведомления, пульсометр и до 10 дней автономной работы."
+  },
+  {
+    "id": 5,
+    "title": "Электрочайник HeatPro",
+    "price": 2890,
+    "category": "Дом",
+    "image": "https://placehold.co/800x600?text=HeatPro",
+    "description": "Объем 1.7 л, выбор температуры, защита от перегрева и автоотключение."
+  },
+  {
+    "id": 6,
+    "title": "Умная лампа LightOne",
+    "price": 1990,
+    "category": "Умный дом",
+    "image": "https://placehold.co/800x600?text=LightOne",
+    "description": "Регулировка яркости и температуры света, управление со смартфона."
+  },
+  {
+    "id": 7,
+    "title": "Ноутбучная подставка AirStand",
+    "price": 1790,
+    "category": "Аксессуары",
+    "image": "https://placehold.co/800x600?text=AirStand",
+    "description": "Алюминиевая подставка для ноутбуков 11-16 дюймов с хорошей вентиляцией."
+  },
+  {
+    "id": 8,
+    "title": "Внешний аккумулятор PowerMax 20000",
+    "price": 3590,
+    "category": "Гаджеты",
+    "image": "https://placehold.co/800x600?text=PowerMax+20000",
+    "description": "Быстрая зарядка, USB-C Power Delivery и два USB-A порта."
+  }
+]
